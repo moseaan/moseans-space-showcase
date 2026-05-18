@@ -1,4 +1,4 @@
-# MO$EAN Platform
+# MO$EAN'S SPACE
 
 Full-stack artist/community platform combining music, merch, memberships, rewards, locked downloads, live rooms, and payments.
 
@@ -27,4 +27,3 @@ Full-stack artist/community platform combining music, merch, memberships, reward
 - Built as a real product surface rather than a static artist site: auth, billing, vault access, rewards, and community state are all modeled.
 - Combined traditional SaaS patterns with music/product/community features.
 - Used realtime infrastructure for member chat, streams, and live interactions.
-
